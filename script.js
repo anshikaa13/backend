@@ -14,6 +14,12 @@
 // const val=require("./math");
 // console.log(val);
 
-const val=require("./math");
-console.log(val);
-console.log(Math.PI)
+// const val=require("./math");
+// console.log(val);
+// console.log(Math.PI)
+// const info=require("./Fruits")
+// console.log(info)
+
+import {sum,PI} from "./math.js"
+
+console.log(sum)
